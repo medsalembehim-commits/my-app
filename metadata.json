@@ -1,0 +1,6 @@
+{
+  "name": "75 DAYS – Discipline Journey",
+  "description": "A calm, private bilingual (Arabic RTL & English LTR) 75-day discipline companion for overcoming an unwanted habit through daily commitment, milestones, motivation, and private journaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

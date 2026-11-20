@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "75 DAYS – Discipline Journey",
+    "slug": "75-days-discipline-journey",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.discipline.seventyfivedays",
+      "versionCode": 1,
+      "permissions": [
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.SCHEDULE_EXACT_ALARM"
+      ],
+      "adaptiveIcon": {
+        "backgroundColor": "#556B45"
+      }
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "color": "#556B45"
+        }
+      ],
+      "expo-sqlite",
+      "expo-localization"
+    ]
+  }
+}
